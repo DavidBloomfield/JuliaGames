@@ -7,8 +7,11 @@ add Colors and GameZero package
 
 To run
 From REPL type:
+
 using GameZero
+
 GameZero.rungame("D:\\..\\Julia\\..\\Snake\\Snake.jl")  
+
 
 To Play
 Use arrow keys to navigate snake to eat green apples and avoid red
