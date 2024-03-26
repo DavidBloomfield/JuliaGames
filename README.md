@@ -1,3 +1,4 @@
+Snake - Game 1
 Aim to write a complete game using GameZero as learning exercise.  SNAKE.  Not just a partial example
 
 To Install
@@ -20,4 +21,23 @@ To replay - repeat To run instruction
 
 
 ![image](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/842d53af-5a21-4035-a3b5-1c2094a684cf)
+
+3D Maze
+Create dir juliaMaze
+Create fonts subdir with moonhouse.tff
+In REPL
+cd("juliaMaze")
+add Colors and GameZero package 
+from package manager activate .     This will create a project directory.  If this step is missed, GameZero will not be able to find fonts
+
+Start up screen with instructions and maze size selection
+
+![StartUp](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/76a5ea1d-5937-400c-b443-0bc00eb6bb70)
+
+Gameplay 3D Maze
+
+![Gameplay#1](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/94bec9ea-d307-427d-a800-31ad38c72c4b)
+
+
+If you press space bar a 2D map is displayed briefly.  Exit is in orange
 
