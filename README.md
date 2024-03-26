@@ -23,11 +23,17 @@ To replay - repeat To run instruction
 ![image](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/842d53af-5a21-4035-a3b5-1c2094a684cf)
 
 **3D Maze - GAME 2**
+
 Create dir juliaMaze
+
 Create fonts subdir with moonhouse.tff
+
 In REPL
+
 cd("juliaMaze")
+
 add Colors and GameZero package 
+
 from package manager activate .     This will create a project directory.  If this step is missed, GameZero will not be able to find fonts
 
 Start up screen with instructions and maze size selection
