@@ -1,4 +1,4 @@
-Snake - Game 1
+**Snake - GAME 1**
 Aim to write a complete game using GameZero as learning exercise.  SNAKE.  Not just a partial example
 
 To Install
@@ -22,7 +22,7 @@ To replay - repeat To run instruction
 
 ![image](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/842d53af-5a21-4035-a3b5-1c2094a684cf)
 
-3D Maze
+**3D Maze - GAME 2**
 Create dir juliaMaze
 Create fonts subdir with moonhouse.tff
 In REPL
@@ -38,6 +38,6 @@ Gameplay 3D Maze
 
 ![Gameplay#1](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/94bec9ea-d307-427d-a800-31ad38c72c4b)
 
-
 If you press space bar a 2D map is displayed briefly.  Exit is in orange
 
+![Gameplay#2](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/96c1d153-1a73-4df6-b0fc-17e477bb54be)
