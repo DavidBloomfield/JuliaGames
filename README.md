@@ -24,6 +24,8 @@ To replay - repeat To run instruction
 
 **3D Maze - GAME 2**
 
+In this game you navigate around a 3D maze using arrow keys.  The maze is procedurally generated (prims algorithm) and the size can be changed 
+
 Create dir juliaMaze
 
 Create fonts subdir with moonhouse.tff
