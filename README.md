@@ -66,9 +66,9 @@ Word search game you can either play with an english dictionary or use to practi
 
 the english is displayed and you have to find the spanish translation in the search grid 
 
-Create dir WorSearch
+Create dir WordSearch
 
-Copy in 2 files.  
+Copy in 4 files.  (instructions.txt, juliawordsearch.jl, juliawordsearchrun.jl and puzzlegrid.jl
 
 Create fonts subdir with moonhouse.tff
 
