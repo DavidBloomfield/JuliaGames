@@ -56,6 +56,6 @@ Gameplay 3D Maze
 
 ![Gameplay#1](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/94bec9ea-d307-427d-a800-31ad38c72c4b)
 
-If you press space bar a 2D map is displayed briefly.  Exit is in orange
+If you press space bar a 2D map is displayed briefly.  Exit is in orange.  The light blue are raycasts and represent your field of view
 
 ![Gameplay#2](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/96c1d153-1a73-4df6-b0fc-17e477bb54be)
