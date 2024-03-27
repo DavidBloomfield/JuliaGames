@@ -34,6 +34,8 @@ In this game you navigate around a 3D maze using arrow keys.  The maze is proced
 
 Create dir juliaMaze
 
+Copy in 2 files.  
+
 Create fonts subdir with moonhouse.tff
 
 In REPL
@@ -43,6 +45,8 @@ cd("juliaMaze")
 add Colors and GameZero package 
 
 from package manager activate .     This will create a project directory.  If this step is missed, GameZero will not be able to find fonts
+
+Execute the run file which implements GameZero and calls the JuliaMaze file.  Otherwise you can run the JuliaMaze file using the previous approach from the REPL
 
 Start up screen with instructions and maze size selection
 
