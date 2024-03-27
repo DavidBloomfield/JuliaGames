@@ -59,3 +59,35 @@ Gameplay 3D Maze
 If you press space bar a 2D map is displayed briefly.  Exit is in orange.  The light blue are raycasts and represent your field of view
 
 ![Gameplay#2](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/96c1d153-1a73-4df6-b0fc-17e477bb54be)
+
+**WordSearch - GAME 3
+**
+
+Word search game you can either play with an english dictionary or use to practice another language (eg spanish).  If using practising another language
+
+the english is displayed and you have to find the spanish translation in the search grid 
+
+Create dir WorSearch
+
+Copy in 2 files.  
+
+Create fonts subdir with moonhouse.tff
+
+In REPL
+
+cd("WordSearch")
+
+add Colors and GameZero package 
+
+from package manager activate .     This will create a project directory.  If this step is missed, GameZero will not be able to find fonts
+
+Execute the run file which implements GameZero and calls the JuliaWordSearch file.  Otherwise you can run the JuliaWordSearch file using the previous approach from the REPL
+
+Start up screen with instructions and maze size selection
+
+![StartUp](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/4875cf1e-3c43-452a-bf76-6bd3cd271c6e)
+
+Game play screen
+
+![GamePlay](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/209f79ab-ade1-4f18-bb4b-e19ced43fbe8)
+
