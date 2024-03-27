@@ -60,8 +60,7 @@ If you press space bar a 2D map is displayed briefly.  Exit is in orange.  The l
 
 ![Gameplay#2](https://github.com/DavidBloomfield/JuliaGames/assets/55062557/96c1d153-1a73-4df6-b0fc-17e477bb54be)
 
-**WordSearch - GAME 3
-**
+**WordSearch - GAME 3**
 
 Word search game you can either play with an english dictionary or use to practice another language (eg spanish).  If using practising another language
 
