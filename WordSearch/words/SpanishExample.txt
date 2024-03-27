@@ -1,0 +1,54 @@
+Abrir,to open
+Ayudar,to help
+Bailar,to dance
+Cambiar,to change
+Caminar,to walk
+Cantar,to sing
+Comenzar,to begin
+Contar,to count/tell
+Comprar,to buy
+Correr,to run
+Creer,to think/believe
+Dar,to give
+Deber,to have to
+Decir,to say
+Entender,to understand
+Estar,to be
+Estudiar,to study
+Gustar,to like
+Haber,to have
+Hablar,to speak/talk
+Hacer,to do/make
+Jugar,to play
+Llamar,to call
+Pagar,to pay
+Partir,to leave/divide
+Pedir,to ask for
+Poder,to be able to
+Poner,to put
+Preguntar,to ask
+Querer,to want
+Saber,to know
+Ser,to be
+Tener,to have
+Viajar,to travel
+Visitar,to visit
+Vivir,to live
+Grande,big
+Pequeno,small
+Caliente,hot
+Frio,cold
+Mojado,wet
+Seco,dry
+Izquierda,left
+Derecha,right
+Rojo,red
+Rosa,pink
+Naranja,orange
+Amarillo,yellow
+Verde,green
+Azul,blue
+Marron,brown
+Negro,black
+Blanco,white
+
