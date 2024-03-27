@@ -1,0 +1,10 @@
+This word search game randomly fits 10 words from a english or spanish dictionary 
+on a 15 by 15 grid.  Words can be placed either forwards or reverse in a horizontal, 
+vertical or diagonal orientation. To make a guess left click at each end of the word.  
+The selection text colour is yellow. If the guess is correct the colour will change to 
+light blue on the grid and word list to show found words. If you want to use an alternate 
+word dictionary just replace the dictionary file in words directory.  The format of the file 
+is one row for each word and two entries for each word.  This is because, the game can be used 
+to practice a foreign language and so the first entry would be the word to search in the grid and 
+the second would be the word displayed in the list
+Press either button for english or spanish game
