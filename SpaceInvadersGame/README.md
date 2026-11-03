@@ -1,6 +1,7 @@
 
 Space Invaders type game written using Julia and GameZero.  
 I wrote this to better understand some GameZero concepts - eg using Schedule
+
 Control Keys - Left Right arrow, Spacebar to shoot and S for Shields
 There are 3 or 4 different waves.
 Wave patterns can be easily configured in levels array
